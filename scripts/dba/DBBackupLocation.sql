@@ -1,0 +1,1 @@
+SELECT Distinct physical_device_name FROM msdb.dbo.backupmediafamily

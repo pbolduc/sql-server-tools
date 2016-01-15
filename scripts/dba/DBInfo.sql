@@ -1,0 +1,1 @@
+SELECT name,compatibility_level,recovery_model_desc,state_desc  FROM sys.databases
